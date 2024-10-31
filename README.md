@@ -61,3 +61,11 @@
 
 </p>
 -->
+
+
+<a href="https://github.com/maplesyrup0423/portfolio-YEJIN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maplesyrup0423&repo=portfolio-YEJIN" />
+</a>
+<a href="https://github.com/maplesyrup0423/sol_pj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maplesyrup0423&repo=sol_pj" />
+</a>
