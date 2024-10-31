@@ -12,3 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maplesyrup0423&hide=c%23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+**WakaTime 주간 통계**
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maplesyrup0423)](https://github.com/anuraghazra/github-readme-stats)
