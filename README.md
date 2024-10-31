@@ -38,4 +38,13 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=Apache%20Tomcat&logoColor=black" alt="Apache Tomcat" />
   <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="Amazon Web Services" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=Unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL Workbench" />
+  <img src="https://img.shields.io/badge/HeidiSQL-1F3A3D?style=for-the-badge&logo=HeidiSQL&logoColor=white" alt="HeidiSQL" />
+  <img src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle SQL Developer" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white" alt="Android Studio" />
 </p>
