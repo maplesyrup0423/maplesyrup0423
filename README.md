@@ -18,6 +18,7 @@
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maplesyrup0423)](https://github.com/anuraghazra/github-readme-stats)
 -->
+<!--
 <hr/>
 <h3>skill</h3>
 <p align="center">
@@ -59,3 +60,4 @@
   </p>
 
 </p>
+-->
