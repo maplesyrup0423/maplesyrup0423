@@ -56,19 +56,6 @@
     <img src="https://img.shields.io/badge/PS-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Adobe Photoshop" />
     <img src="https://img.shields.io/badge/XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" alt="Adobe XD" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma" />
-
-  </p>
-
-  <h3>Tools</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white" alt="Netlify" />
-    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse" />
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white" alt="Visual Studio" />
-    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=Unity&logoColor=white" alt="Unity" />
-    <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=Apache%20Tomcat&logoColor=black" alt="Apache Tomcat" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="Amazon Web Services" />
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white" alt="Android Studio" />
   </p>
 
 </p>
