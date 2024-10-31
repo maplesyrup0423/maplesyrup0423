@@ -40,9 +40,8 @@
 
   <h3>Database</h3>
   <p>
-    <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL Workbench" />
-    <img src="https://img.shields.io/badge/HeidiSQL-1F3A3D?style=for-the-badge&logo=HeidiSQL&logoColor=white" alt="HeidiSQL" />
-    <img src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle SQL Developer" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL Workbench" />
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle SQL Developer" />
   </p>
 
   <h3>Design Tools</h3>
