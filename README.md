@@ -37,5 +37,5 @@
   <img src="https://img.shields.io/badge/Vite-4FC08D?style=for-the-badge&logo=Vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=Apache%20Tomcat&logoColor=black" alt="Apache Tomcat" />
-  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Web Services" />
+  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="Amazon Web Services" />
 </p>
