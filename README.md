@@ -5,5 +5,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=maplesyrup0423&show_icons=true&theme=github_dark&count_private=true&hide=stars,issues,contribs">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maplesyrup0423&layout=compact&hide=csharp)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maplesyrup0423&hide=csharp)](https://github.com/anuraghazra/github-readme-stats)
