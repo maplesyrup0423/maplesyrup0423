@@ -70,4 +70,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maplesyrup0423&repo=sol_pj" />
 </a>
 -->
-*
