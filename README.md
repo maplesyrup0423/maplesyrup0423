@@ -58,7 +58,6 @@
     <img src="https://img.shields.io/badge/XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" alt="Adobe XD" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma" />
   </p>
-
 </p>
 -->
 
