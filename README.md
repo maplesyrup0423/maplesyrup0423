@@ -60,5 +60,8 @@
 - velog: [https://velog.io/@maplesyrup0423/posts](https://velog.io/@maplesyrup0423/posts)
 - Email: [maplesyrup0423@naver.com](maplesyrup0423@naver.com)
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://github.com/maplesyrup0423/intp_mentors)
+---
+
+[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=maplesyrup0423&repo=intp_mentors)](https://github.com/maplesyrup0423/intp_mentors)
+
 
