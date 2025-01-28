@@ -29,8 +29,11 @@ jobs:
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: maplesyrup0423
-          outputs: |
-            dist/github-snake-dark.svg?color_snake=#4A7A8C&color_dots=#212121,#594f2b,#ac8e22,#d6ae1e,#ffcd19
+           outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          # outputs: |
+          #   dist/github-snake-dark.svg?color_snake=#4A7A8C&color_dots=#212121,#594f2b,#ac8e22,#d6ae1e,#ffcd19
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
