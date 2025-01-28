@@ -6,7 +6,7 @@
 
 ## 🛠️ skill
 <p align="center">
-  <h3>Backend</h3>
+  <h2>Backend</h2>
   <p>
     <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring" />
