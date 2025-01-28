@@ -1,7 +1,5 @@
 # ✨ **"Coding isn't just a job; it's a way to create magic!"**  
 
-![Fall Autumn GIF](https://media.tenor.com/images/5bc9fa77a5a8b7fe806ac7deab3d7c29/tenor.gif)
-
 ## 🌟 About Me
 - 👩‍💻 **Developer who enjoys challenges and grows through them.**  
   **도전을 즐기며 성장하는 개발자.**
@@ -64,6 +62,6 @@
 
 <!--<h1 align="center">maplesyrup0423에 어서오세요!</h1>-->
 
-<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaplesyrup0423&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)-->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaplesyrup0423&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
