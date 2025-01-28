@@ -1,8 +1,7 @@
 # 👋 Hello! I'm Yejin!
 
 ## 🌟 About Me
-- 🌱 I’m currently learning **React**, **TypeScript**, and more!
-- 👩‍💻 Passionate about building user-friendly web applications.
+- 👩‍💻 Developer who enjoys challenges and grows through them.
 - 🎯 My goal is to create positive change through development.
 
 ## 🛠️ skill
