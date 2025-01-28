@@ -26,11 +26,11 @@
 
 <!--<h1 align="center">maplesyrup0423에 어서오세요!</h1>-->
 
-<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaplesyrup0423&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaplesyrup0423&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=maplesyrup0423&show_icons=true&theme=github_dark&count_private=true&hide=stars,issues,contribs">-->
+<img src="https://github-readme-stats.vercel.app/api?username=maplesyrup0423&show_icons=true&theme=github_dark&count_private=true&hide=stars,issues,contribs">
 
 <!--
 **일반 언어 사용량 통계**  
