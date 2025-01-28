@@ -3,6 +3,15 @@
 ## 🌟 About Me
 - 👩‍💻 Developer who enjoys challenges and grows through them.
 - 🎯 My goal is to create positive change through development.
+- 
+## 📈 My GitHub Stats
+<div align="left" style="display: flex; align-items: flex-start; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=maplesyrup0423&show_icons=true&theme=github_dark&count_private=true&hide=stars,issues,contribs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maplesyrup0423&layout=compact&theme=github_dark" alt="Top Languages" />
+</div>
+
+## ⏳ Coding Stats
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=maplesyrup0423&layout=compact&theme=github_dark)
 
 ## 🛠️ skill
 <p align="center">
@@ -41,11 +50,6 @@
   </p>
 </p>
 
-## 📈 My GitHub Stats
-<div align="left" style="display: flex; align-items: flex-start; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=maplesyrup0423&show_icons=true&theme=github_dark&count_private=true&hide=stars,issues,contribs" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maplesyrup0423&layout=compact&theme=github_dark" alt="Top Languages" />
-</div>
 
 ## 🔗 Connect with Me
 - Portfolio: [https://maple2423-portfolio.netlify.app/](https://maple2423-portfolio.netlify.app/)
@@ -58,9 +62,5 @@
 <!--<h1 align="center">maplesyrup0423에 어서오세요!</h1>-->
 
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaplesyrup0423&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)-->
-
-## ⏳ Coding Stats
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=maplesyrup0423&layout=compact&theme=github_dark)
 
 
