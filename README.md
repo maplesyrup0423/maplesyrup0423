@@ -58,7 +58,8 @@
 - velog: [https://velog.io/@maplesyrup0423/posts](https://velog.io/@maplesyrup0423/posts)
 - Email: [maplesyrup0423@naver.com](maplesyrup0423@naver.com)
 
-![Fall Autumn GIF](https://media.tenor.com/images/5bc9fa77a5a8b7fe806ac7deab3d7c29/tenor.gif)
+![Fall Autumn GIF](https://media1.tenor.com/m/oEGe2xceU6wAAAAC/fall-autumn.gif)
+
 
 
 <!--<h1 align="center">maplesyrup0423에 어서오세요!</h1>-->
