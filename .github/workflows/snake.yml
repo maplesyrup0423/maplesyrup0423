@@ -25,7 +25,7 @@ jobs:
         with:
           github_user_name: maplesyrup0423
           outputs: |
-            dist/github-snake-dark.svg?color_snake=#4A7A8C&color_dots=#212121,#594f2b,#836f27,#ac8e22,#d6ae1e,#ffcd19
+            dist/github-snake-dark.svg?color_snake=#4374D9&color_dots=#212121,#856c12,#ffcd19,#ec9911,#da6608,#c73200
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
