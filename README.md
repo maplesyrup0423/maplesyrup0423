@@ -10,10 +10,10 @@
   **제 목표는 개발을 통해 긍정적인 변화를 만드는 것입니다.**
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaplesyrup0423&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
-<!--&nbsp;
+&nbsp;
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmaple2423-portfolio.netlify.app&count_bg=%23FFCD19&title_bg=%23000000&icon=reverbnation.svg&icon_color=%23E7E7E7&title=portfolio&edge_flat=false)](https://hits.seeyoufarm.com)
 &nbsp;
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmaplesyrup-devtyper.netlify.app&count_bg=%2379C83D&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=devtyper&edge_flat=false)](https://hits.seeyoufarm.com)-->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmaplesyrup-devtyper.netlify.app&count_bg=%2379C83D&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=devtyper&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 📈 My GitHub Stats
 
