@@ -14,6 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maplesyrup0423&layout=compact&theme=github_dark" alt="Top Languages" />
 </div>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaplesyrup0423&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ## ⏳ Coding Stats
@@ -59,9 +60,5 @@
 - velog: [https://velog.io/@maplesyrup0423/posts](https://velog.io/@maplesyrup0423/posts)
 - Email: [maplesyrup0423@naver.com](maplesyrup0423@naver.com)
 
-
-<!--<h1 align="center">maplesyrup0423에 어서오세요!</h1>-->
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaplesyrup0423&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
