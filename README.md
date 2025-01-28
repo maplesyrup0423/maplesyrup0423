@@ -20,6 +20,14 @@
 ## ⏳ Coding Stats
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=maplesyrup0423&layout=compact&theme=github_dark)
 
+## 📂 Featured Projects
+
+- [portfolio-YEJIN](https://github.com/yourusername/portfolio-YEJIN) 💼 - 다양한 개발 프로젝트와 기술을 공유하는 포트폴리오.
+- [Sol 프로젝트](https://github.com/yourusername/sol_pj) 🌐 - 피드 기반 게시판과 실시간 메신저를 제공하는 SNS.
+- [DevTyper](https://github.com/yourusername/DevTyper) ⌨️ - 타자 속도와 정확도를 향상시키는 웹 앱.
+- [INTP Mentors](https://github.com/yourusername/intp_mentors) 🎓 - 교사를 위한 연수 사이트.
+- [보드 in](https://github.com/yourusername/board-in) 🎲 - 보드게임 검색 및 필터링 앱.
+- [Memento Mori](https://github.com/yourusername/Memento-mori) 🎮 - 유니티로 개발된 2D 방탈출 게임.
 
 
 ## 🛠️ skill
@@ -60,12 +68,5 @@
 - velog: [https://velog.io/@maplesyrup0423/posts](https://velog.io/@maplesyrup0423/posts)
 - Email: [maplesyrup0423@naver.com](maplesyrup0423@naver.com)
 
----
-
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=maplesyrup0423&repo=intp_mentors)](https://github.com/maplesyrup0423/intp_mentors)
-
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=maplesyrup0423&repo=intp_mentors&width=1000)](https://github.com/maplesyrup0423/intp_mentors)
-
-[![INTP Mentors Repository](https://github-readme-stats.vercel.app/api/pin/?username=maplesyrup0423&repo=intp_mentors)](https://github.com/maplesyrup0423/intp_mentors)
 
 
