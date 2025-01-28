@@ -1,4 +1,4 @@
-
+# ✨ **"Coding is not just a profession; it's a way to create magic!"**
 ## 🌟 About Me
 - 👩‍💻 **Developer who enjoys challenges and grows through them.**  
   **도전을 즐기며 성장하는 개발자.**
@@ -54,7 +54,7 @@
 - Email: [maplesyrup0423@naver.com](maplesyrup0423@naver.com)
 
 ---
-✨ **"Coding is not just a profession; it's a way to create magic!"**
+
 
 <!--<h1 align="center">maplesyrup0423에 어서오세요!</h1>-->
 
