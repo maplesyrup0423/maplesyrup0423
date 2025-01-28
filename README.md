@@ -1,14 +1,16 @@
-# ✨ **"Coding isn't just a job; it's a way to create magic!"**  
+# ✨ **"Coding isn't just a job; it's a way to create magic!"**
+
 ![Fall Autumn GIF](https://media1.tenor.com/m/oEGe2xceU6wAAAAC/fall-autumn.gif)
 
 ## 🌟 About Me
+
 - 👩‍💻 **Developer who enjoys challenges and grows through them.**  
   **도전을 즐기며 성장하는 개발자.**
-  
 - 🎯 **My goal is to create positive change through development.**  
   **제 목표는 개발을 통해 긍정적인 변화를 만드는 것입니다.**
 
 ## 📈 My GitHub Stats
+
 <div align="left" style="display: flex; align-items: flex-start; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=maplesyrup0423&show_icons=true&theme=github_dark&count_private=true&hide=stars,issues,contribs" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maplesyrup0423&layout=compact&theme=github_dark" alt="Top Languages" />
@@ -16,8 +18,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaplesyrup0423&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
 ## ⏳ Coding Stats
+
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=maplesyrup0423&layout=compact&theme=github_dark)
 
 ## 📂 Featured Projects
@@ -29,8 +31,8 @@
 - [보드 in](https://github.com/yourusername/board-in) 🎲 - 보드게임 검색 및 필터링 앱.
 - [Memento Mori](https://github.com/yourusername/Memento-mori) 🎮 - 유니티로 개발된 2D 방탈출 게임.
 
-
 ## 🛠️ skill
+
 <p align="center">
   <p>
     <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js" />
@@ -62,11 +64,10 @@
   </p>
 </p>
 
-
 ## 🔗 Connect with Me
+
 - Portfolio: [https://maple2423-portfolio.netlify.app/](https://maple2423-portfolio.netlify.app/)
 - velog: [https://velog.io/@maplesyrup0423/posts](https://velog.io/@maplesyrup0423/posts)
 - Email: [maplesyrup0423@naver.com](maplesyrup0423@naver.com)
 
-
-
+![snake gif](https://github.com/아이디/아이디/blob/output/github-snake-dark.svg)
