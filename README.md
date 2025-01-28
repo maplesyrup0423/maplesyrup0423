@@ -70,5 +70,6 @@
 - velog: [https://velog.io/@maplesyrup0423/posts](https://velog.io/@maplesyrup0423/posts)
 - Email: [maplesyrup0423@naver.com](maplesyrup0423@naver.com)
 
-![snake gif](https://github.com/maplesyrup0423/maplesyrup0423/blob/output/github-snake-dark.svg)
+<!-- ![snake gif](https://github.com/maplesyrup0423/maplesyrup0423/blob/output/github-snake-dark.svg) -->
+
 ![snake gif](https://github.com/maplesyrup0423/maplesyrup0423/blob/output/github-contribution-grid-snake.svg)
