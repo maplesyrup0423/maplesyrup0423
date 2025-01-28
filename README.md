@@ -12,12 +12,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maplesyrup0423&layout=compact&theme=github_dark" alt="Top Languages" />
 </div>
 
----
+
 
 ## ⏳ Coding Stats
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=maplesyrup0423&layout=compact&theme=github_dark)
 
----
+
 
 ## 🛠️ skill
 <p align="center">
@@ -51,7 +51,7 @@
   </p>
 </p>
 
----
+
 ## 🔗 Connect with Me
 - Portfolio: [https://maple2423-portfolio.netlify.app/](https://maple2423-portfolio.netlify.app/)
 - velog: [https://velog.io/@maplesyrup0423/posts](https://velog.io/@maplesyrup0423/posts)
