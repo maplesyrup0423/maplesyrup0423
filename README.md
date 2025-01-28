@@ -59,7 +59,8 @@
 
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaplesyrup0423&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
+## ⏳ Coding Stats
 
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=maplesyrup0423&layout=compact&theme=github_dark)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maplesyrup0423)](https://github.com/anuraghazra/github-readme-stats)
 
