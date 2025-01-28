@@ -1,9 +1,12 @@
 # 👋 Hello! I'm Yejin!
 
 ## 🌟 About Me
-- 👩‍💻 Developer who enjoys challenges and grows through them.
-- 🎯 My goal is to create positive change through development.
+- 👩‍💻 **Developer who enjoys challenges and grows through them.**  
+  **도전을 즐기며 성장하는 개발자.**
   
+- 🎯 **My goal is to create positive change through development.**  
+  **제 목표는 개발을 통해 긍정적인 변화를 만드는 것입니다.**
+
 ## 📈 My GitHub Stats
 <div align="left" style="display: flex; align-items: flex-start; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=maplesyrup0423&show_icons=true&theme=github_dark&count_private=true&hide=stars,issues,contribs" alt="GitHub Stats" />
