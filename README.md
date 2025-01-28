@@ -1,11 +1,36 @@
+# 👋 Hello! I'm Yejin!
+
+## 🌟 About Me
+- 🌱 I’m currently learning **React**, **TypeScript**, and more!
+- 👩‍💻 Passionate about building user-friendly web applications.
+- 🎯 My goal is to create positive change through development.
+
+## 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+## 📈 My GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 🔗 Connect with Me
+- Portfolio: [Portfolio](https://maple2423-portfolio.netlify.app/)
+- velog: [velog](https://velog.io/@maplesyrup0423/posts)
+- Email: [maplesyrup0423@naver.com](maplesyrup0423@naver.com)
+
+---
+✨ **"Coding is not just a profession; it's a way to create magic!"**
 
 <!--<h1 align="center">maplesyrup0423에 어서오세요!</h1>-->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaplesyrup0423&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaplesyrup0423&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=maplesyrup0423&show_icons=true&theme=github_dark&count_private=true&hide=stars,issues,contribs">
+<img src="https://github-readme-stats.vercel.app/api?username=maplesyrup0423&show_icons=true&theme=github_dark&count_private=true&hide=stars,issues,contribs">-->
 
 <!--
 **일반 언어 사용량 통계**  
