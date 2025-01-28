@@ -1,4 +1,5 @@
 # ✨ **"Coding isn't just a job; it's a way to create magic!"**  
+![Fall Autumn GIF](https://media.tenor.com/images/5bc9fa77a5a8b7fe806ac7deab3d7c29/tenor.gif)
 
 ## 🌟 About Me
 - 👩‍💻 **Developer who enjoys challenges and grows through them.**  
