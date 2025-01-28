@@ -1,4 +1,3 @@
-# 👋 Hello! I'm Yejin!
 
 ## 🌟 About Me
 - 👩‍💻 **Developer who enjoys challenges and grows through them.**  
