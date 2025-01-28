@@ -1,4 +1,6 @@
-# ✨ **"Coding is not just a profession; it's a way to create magic!"**
+✨ **"Coding isn't just a job; it's a way to create magic!"**  
+✨ **"코딩은 단순한 일이 아니라, 세상을 변화시키는 마법입니다!"**
+
 ## 🌟 About Me
 - 👩‍💻 **Developer who enjoys challenges and grows through them.**  
   **도전을 즐기며 성장하는 개발자.**
