@@ -64,5 +64,5 @@
 
 [![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=maplesyrup0423&repo=intp_mentors)](https://github.com/maplesyrup0423/intp_mentors)
 
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=maplesyrup0423&repo=intp_mentors&width=800)](https://github.com/maplesyrup0423/intp_mentors)
+[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=maplesyrup0423&repo=intp_mentors&width=1000)](https://github.com/maplesyrup0423/intp_mentors)
 
