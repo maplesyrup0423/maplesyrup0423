@@ -17,8 +17,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
-- Portfolio: [Portfolio](https://maple2423-portfolio.netlify.app/)
-- velog: [velog](https://velog.io/@maplesyrup0423/posts)
+- Portfolio: [https://maple2423-portfolio.netlify.app/](https://maple2423-portfolio.netlify.app/)
+- velog: [https://velog.io/@maplesyrup0423/posts](https://velog.io/@maplesyrup0423/posts)
 - Email: [maplesyrup0423@naver.com](maplesyrup0423@naver.com)
 
 ---
