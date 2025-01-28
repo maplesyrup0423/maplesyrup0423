@@ -5,7 +5,7 @@
 - 👩‍💻 Passionate about building user-friendly web applications.
 - 🎯 My goal is to create positive change through development.
 
-## 🛠️ Tech Stack
+## 🛠️ skill
 <p align="center">
   <h3>Backend</h3>
   <p>
