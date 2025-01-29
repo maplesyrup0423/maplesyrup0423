@@ -77,6 +77,8 @@
 - Portfolio: [https://maple2423-portfolio.netlify.app/](https://maple2423-portfolio.netlify.app/)
 - velog: [https://velog.io/@maplesyrup0423/posts](https://velog.io/@maplesyrup0423/posts)
 - Email: [maplesyrup0423@naver.com](maplesyrup0423@naver.com)
-
+ <a href="mailto:maplesyrup0423@naver.com">
+   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=maplesyrup0423@naver.com"/>
+</a>
 ## 🐍 GitHub Contribution Snake
 ![snake gif](https://github.com/maplesyrup0423/maplesyrup0423/blob/output/github-snake-dark.svg)
