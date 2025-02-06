@@ -19,7 +19,7 @@
 ## 📈 My GitHub Stats
 
 <div align="left" style="display: flex; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=maplesyrup0423&show_icons=true&theme=github_dark&count_private=true&hide=stars,issues,contribs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maplesyrup0423&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maplesyrup0423&layout=compact&theme=github_dark" alt="Top Languages" />
 </div>
