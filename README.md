@@ -32,9 +32,10 @@
 
 ## 📂 Featured Projects
 
+- [IT Interview Prep](https://github.com/yourusername/it-interview-prep) 💻 - IT 취준생들을 위한 면접 준비 웹 애플리케이션.
+- [DevTyper](https://github.com/yourusername/DevTyper) ⌨️ - 타자 속도와 정확도를 향상시키는 웹 앱.
 - [portfolio-YEJIN](https://github.com/yourusername/portfolio-YEJIN) 💼 - 다양한 개발 프로젝트와 기술을 공유하는 포트폴리오.
 - [Sol](https://github.com/yourusername/sol_pj) 🌐 - 피드 기반 게시판과 실시간 메신저를 제공하는 SNS.
-- [DevTyper](https://github.com/yourusername/DevTyper) ⌨️ - 타자 속도와 정확도를 향상시키는 웹 앱.
 - [Mentors](https://github.com/yourusername/intp_mentors) 🎓 - 교사를 위한 연수 사이트.
 - [보드 in](https://github.com/yourusername/board-in) 🎲 - 보드게임 검색 및 필터링 앱.
 - [Memento Mori](https://github.com/yourusername/Memento-mori) 🎮 - 유니티로 개발된 2D 방탈출 게임.
