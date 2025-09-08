@@ -7,7 +7,7 @@
 - 👩‍💻 **Developer who enjoys challenges and grows through them.**  
   **도전을 즐기며 성장하는 개발자.**
 - 🎯 **My goal is to create positive change through development.**  
-  **제 목표는 개발을 통해 긍정적인 변화를 만드는 것입니다.**
+  **개발을 통해 긍정적인 변화를 만드는 것이 제 목표 입니다.**
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaplesyrup0423&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
